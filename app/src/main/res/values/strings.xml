@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>М
+    <string name="name">Tolkyn</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Tolkyn Tyuyebayeva!\n\n
+        \n\nI was born in 2002, July 31.\n\nI have two sisters, one and ten years old
+        \n\nI was born in Petropavlovsk,and now I live in Nursultan
+        \n\nGraduated from the NIS of the city of Petropavlovsk
+        \n\nAt school, I was active student, participated in creative activities, volunteered and was a group leader
+        \n\nNow I am second year student of Astana IT University in the specialty Software Engineering
+        \n\nI am creative person, so I have a lot of different hobbies\n\n I love reading books, reading fills me with inspiration\n\n
+        I can draw, and play guitar though not quite professionally\n\n
+        \n\nBye!\n\n</string>
+    <string name="second_star">Second star</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">DONE</string>
+</resources>
